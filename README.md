@@ -1,4 +1,4 @@
-# ZtrolixOS
+# Clementine OS
 
 ### What is in it?
 
@@ -8,10 +8,10 @@
 #### Offical Website
     https://sites.google.com/view/ztrolix/ztrolixos
 #### On Itch
-    https://nova-t.itch.io/ztrolix-os
+    https://nova-t.itch.io/clementine-os
 > This is not currently availible.
 #### On ZtroBeta
-    zb --i ZtrolixOS --admin
+    zb --i ClementineOS --admin
 > This is only availible for 1.3.0.
 
 ### What are the benefits?
@@ -22,7 +22,7 @@
 > 
 > 🚧 IN DEVELOPMENT 
 
-| Comparisons | ZtrolixOS | Windows | MacOS |
+| Comparisons | ClementineOS | Windows | MacOS |
 |------------:|----------:|--------:|------:|
 | State | Beta | Released | Released |
 | Performance | 🥉 | 🥇 |  🥈 |
