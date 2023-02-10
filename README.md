@@ -1,4 +1,4 @@
-# ZtrolixOS 1.0.0 Alpha-1
+# ZtrolixOS
 
 ### What is in it?
 
@@ -14,6 +14,15 @@
     zb --i ZtrolixOS --admin
 > This is only availible for 1.3.0.
 
-### What will be coming soon?
+### What are the benefits?
 
-- Unknown
+> ✅ YES 
+> 
+> ⛔ NO 
+> 
+> 🚧 IN DEVELOPMENT 
+
+| Comparisons | ZtrolixOS | Windows | MacOS |
+|------------:|----------:|--------:|------:|
+| State | Beta | Released | Released |
+| Performance | 🥉 | 🥇 |  🥈 |
