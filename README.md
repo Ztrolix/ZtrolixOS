@@ -48,6 +48,7 @@ In this version you get to get a sneak preview on what the operating system will
 | Installer | 🚧 | ✅ |  ✅ |
 | Custom App Support | 🚧 | ✅ |  ✅ |
 | Latest Version | 1.0.0 Alpha-1 | 22H2 | 13.2 |
+| Latest Pre-Release | 1.0.0 Alpha-2 | Build 22623.1255 | ⛔ |
 | Platform | Windows | Windows |  MacOS |
 | Open Source | ✅ | ✅ |  ⛔ |
 | Release Year | 2023 (Alpha) | 1985 |  2001 |
