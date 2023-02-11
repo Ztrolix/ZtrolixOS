@@ -1,5 +1,5 @@
 # Clementine OS
-https://ztrolix.github.io/ZtrolixOS/
+
 <picture>
   <source srcset="https://github.com/Ztrolix/ZtrolixOS/blob/main/Clementine_OS.png">
   <img src="https://github.com/Ztrolix/ZtrolixOS/blob/main/Clementine_OS.png">
