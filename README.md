@@ -21,8 +21,11 @@
 - Administrator mode required if not installed right
 
 ### Where can you download it?
-#### Offical Website
+#### [Offical Website](https://sites.google.com/view/ztrolix/ztrolixos)
     https://sites.google.com/view/ztrolix/ztrolixos
+#### [On Github](https://github.com/Ztrolix/ZtrolixOS/releases)
+    https://github.com/Ztrolix/ZtrolixOS/releases
+
 #### On Itch
     https://nova-t.itch.io/clementine-os
 > This is not currently availible.
