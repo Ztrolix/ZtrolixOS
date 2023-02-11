@@ -1,6 +1,4 @@
 # Clementine OS
-## ⚠️ Development has been slowed down until further notice ⚠️
-Development has been slowed down becuase of the current rate of internet blackouts in the area of development. But this will be only temporarily.
 
 ### What is in it?
 
