@@ -14,10 +14,11 @@ In this version you get to get a sneak preview on what the operating system will
 > This version isn't out yet.
 ##### What will be in this version?
 - Custom mouse
-- Installer 0.1.0
+- InstallerWin 1.0.0
 - Drag disabled to fix lag
 - Installer will be in windows not Clementine OS
 - Custom app maker preview
+- Administrator mode required if not installed right
 
 ### Where can you download it?
 #### Offical Website
