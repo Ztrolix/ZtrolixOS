@@ -1,8 +1,23 @@
 # Clementine OS
+## ⚠️ Development has been slowed down until further notice ⚠️
+Development has been slowed down becuase of the current rate of internet blackouts in the area of development. But this will be only temporarily.
 
-### What is in it?
+### 1.0.0 Alpha-1
+In this version you get to get a sneak preview on what the operating system will be like.
+##### What is in this version?
 
-- Unknown
+- Custom mouse
+- Installer 0.1.0
+- Drag enabled
+
+### 1.0.0 Alpha-2
+> This version isn't out yet.
+##### What will be in this version?
+- Custom mouse
+- Installer 0.1.0
+- Drag disabled to fix lag
+- Installer will be in windows not Clementine OS
+- Custom app maker preview
 
 ### Where can you download it?
 #### Offical Website
@@ -12,7 +27,10 @@
 > This is not currently availible.
 #### On ZtroBeta
     zb --i ClementineOS --admin
-> This is only availible for 1.3.0.
+> This is not currently availible.
+#### On Python
+    pip install clementineos --user
+> This is not currently availible.
 
 ### What are the benefits?
 
@@ -21,7 +39,7 @@
 > ⛔ NO 
 > 
 > 🚧 IN DEVELOPMENT 
-
+ 
 | Comparisons | ClementineOS | Windows | MacOS |
 |------------:|----------:|--------:|------:|
 | State | Alpha | Released | Released |
