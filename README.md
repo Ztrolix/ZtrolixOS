@@ -24,5 +24,11 @@
 
 | Comparisons | ClementineOS | Windows | MacOS |
 |------------:|----------:|--------:|------:|
-| State | Beta | Released | Released |
+| State | Alpha | Released | Released |
 | Performance | 🥉 | 🥇 |  🥈 |
+| Installer | 🚧 | ✅ |  ✅ |
+| Custom App Support | 🚧 | ✅ |  ✅ |
+| Latest Version | 1.0.0 Alpha-1 | 22H2 | 13.2 |
+| Platform | Windows | Windows |  MacOS |
+| Open Source | ✅ | ✅ |  ⛔ |
+| Release Year | 2023 (Alpha) | 1985 |  2001 |
