@@ -5,6 +5,10 @@
   <img src="https://github.com/Ztrolix/ZtrolixOS/blob/main/Clementine_OS.png">
 </picture>
 
+We have received a bunch of errors in this program, we are currently working on fixing it, we are sorry if you are experiencing this, this will be fixed in the full release of 1.0.0.
+
+The installer has stopped having support for MacOS and Linux if you still want to download this os you can still download it but for newer versions in the future, we will stop having support entirely, to see if a game has the support for your system, it will show your operating system icon beside the download. If you still want to download this os you will have to use a Windows emulator but if you are using Linux you will have to use Wine or a Windows emulator.
+
 ### What is in it?
 
 - Custom mouse
