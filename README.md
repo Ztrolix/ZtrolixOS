@@ -1,5 +1,10 @@
 # Clementine OS
 
+<picture>
+  <source srcset="https://github.com/Ztrolix/ZtrolixOS/blob/main/Clementine_OS.png">
+  <img src="https://github.com/Ztrolix/ZtrolixOS/blob/main/Clementine_OS.png">
+</picture>
+
 ### What is in it?
 
 - Custom mouse
