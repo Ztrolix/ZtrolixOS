@@ -49,3 +49,4 @@ Development has been slowed down becuase of the current rate of internet blackou
 | Platform | Windows | Windows |  MacOS |
 | Open Source | ✅ | ✅ |  ⛔ |
 | Release Year | 2023 (Alpha) | 1985 |  2001 |
+| Controller Support | 🚧 | ✅ |  ✅ |
