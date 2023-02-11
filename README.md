@@ -2,17 +2,14 @@
 ## ⚠️ Development has been slowed down until further notice ⚠️
 Development has been slowed down becuase of the current rate of internet blackouts in the area of development. But this will be only temporarily.
 
-### 1.0.0 Alpha-1
-In this version you get to get a sneak preview on what the operating system will be like.
-##### What is in this version?
+### What is in it?
 
 - Custom mouse
 - Installer 0.1.0
 - Drag enabled
 
-### 1.0.0 Alpha-2
-> This version isn't out yet.
-##### What will be in this version?
+### What is coming?
+
 - Custom mouse
 - InstallerWin 1.0.0
 - Drag disabled to fix lag
