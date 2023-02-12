@@ -9,21 +9,6 @@ We have received a bunch of errors in this program, we are currently working on 
 
 The installer has stopped having support for MacOS and Linux if you still want to download this os you can still download it but for newer versions in the future, we will stop having support entirely, to see if a game has the support for your system, it will show your operating system icon beside the download. If you still want to download this os you will have to use a Windows emulator but if you are using Linux you will have to use Wine or a Windows emulator.
 
-### What is in it?
-
-- Custom mouse
-- Installer 0.1.0
-- Drag enabled
-
-### What is coming?
-
-- Custom mouse
-- InstallerWin 1.0.0
-- Drag disabled to fix lag
-- Installer will be in windows not Clementine OS
-- Custom app maker preview
-- Administrator mode required if not installed right
-
 ### Where can you download it?
 #### [Offical Website](https://sites.google.com/view/ztrolix/ztrolixos)
     https://sites.google.com/view/ztrolix/ztrolixos
@@ -62,3 +47,19 @@ The installer has stopped having support for MacOS and Linux if you still want t
 | Open Source | ✅ | ✅ |  ⛔ |
 | Release Year | 2023 (Alpha) | 1985 |  2001 |
 | Controller Support | 🚧 | ✅ |  ✅ |
+
+### What are the releases?
+ 
+| Releases | Notes |
+|---------:|------:|
+| 1.0.0 Alpha-1 | Custom mouse |
+|  | Installer 0.1.0 |
+|  | Drag enabled |
+|  |  |
+| 1.0.0 Alpha-2 | Custom mouse |
+|  | InstallerWin 1.0.0 |
+|  | Drag disabled to fix lag |
+|  | Custom mouse |
+|  | Installer will be in windows not Clementine OS |
+|  | Custom app maker preview |
+|  | Administrator mode required if not installed right |
