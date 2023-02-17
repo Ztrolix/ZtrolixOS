@@ -56,7 +56,7 @@ The installer has stopped having support for MacOS and Linux if you still want t
 |  | InstallerWin 1.2.8 |
 |  | Secret Friday |
 |  | Administrator mode either way to switch OS |
-|  | Custom app maker preview disabled |
+|  | Custom app maker preview disabled but still in the app list |
 |  | ZtrolixLib 1.1.0 |
 |  |  |
 | 1.0.0 Alpha-2 | Administrator mode required if not installed right |
