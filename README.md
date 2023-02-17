@@ -54,7 +54,7 @@ The installer has stopped having support for MacOS and Linux if you still want t
 |---------:|------:|
 | 1.0.0 Alpha-3 | Fixed Installer |
 |  | InstallerWin 1.2.8 |
-|  | Secret Sunday |
+|  | Secret Friday |
 |  | Administrator mode either way to switch OS |
 |  | Custom app maker preview disabled |
 |  | ZtrolixLib 1.1.0 |
